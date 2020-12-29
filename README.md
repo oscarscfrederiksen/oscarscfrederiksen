@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/oscarscfrederiksen/oscarscfrederiksen/master/Hand-Waving.gif" width="50px">
+# Hi there <img src="https://raw.githubusercontent.com/oscarscfrederiksen/oscarscfrederiksen/master/Hand-Waving.gif">
 
 <!--
 **oscarscfrederiksen/oscarscfrederiksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
