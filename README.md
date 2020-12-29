@@ -25,7 +25,7 @@ I'm learning C and C# in Unity, just for fun!
 
 ANYTHING! I love an intelligent conversation about nearly every topic! I would love to discuss politics, computers, programming, science - anything! And well if you're looking to get a project, business, startup, whatever it may be chances are I'd love to collaborate and be a partner. For that you would need to know:
 
-📫 # How to reach me
+📫  How to reach me
 
 I'm soon to be setting up social media accounts, will post them when they're ready!
 But for now email me, any time of the day, at: business.oscarfrederiksen@gmail.com
