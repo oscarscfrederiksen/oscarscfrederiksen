@@ -1,4 +1,6 @@
-# Hi there <img src="https://raw.githubusercontent.com/oscarscfrederiksen/oscarscfrederiksen/master/Hand-Waving.gif" width="70px" style="clip: rect(0px, 0px, 100px, 0px)">
+# Hi there! <img src="https://raw.githubusercontent.com/oscarscfrederiksen/oscarscfrederiksen/master/Hand-Waving.gif" width="70px" style="clip: rect(0px, 0px, 100px, 0px)">
+
+My name is
 
 <!--
 **oscarscfrederiksen/oscarscfrederiksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
