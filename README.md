@@ -2,35 +2,36 @@
 
 My name is Oscar Frederiksen and I'm a self-taught programmer (most interested in app & web development - but by no means exclusively). I'm from Denmark 🇩🇰, living in London and currently working on launching multiple apps, startups and busieness ventures!
 
-🔭 ### What I'm doing now?
+## 🔭 What I'm doing now?
 
 I'm working on a few things and have a few potential projects on the backburner:
 
-The VolunteerMe App: Repo coming soon! 🔨🔨
-The (temporarily labelled) Notion-Obsidian Crossbreed: Repo and name coming soon! 🚧
+- The VolunteerMe App: Repo coming soon! 🔨🔨
 
-An AI powered rock, paper, scissors robot: Repo coming soon!
-An IDE, and a programming language: Just a personal challenge!
+- The (temporarily labelled) Notion-Obsidian Crossbreed: Repo and name coming soon! 🔨🔨
 
-Acing the OCR Computer Science GCSE!
+- An AI powered rock, paper, scissors robot: Repo coming soon!
+- An IDE, and a programming language: Just a personal challenge!
 
-🌱 #### What I'm learning?
+- Acing the OCR Computer Science GCSE!
+
+## 🌱  What I'm learning?
 
 I have plenty to work on, however I always love learning new things!
 
 I'm currently working through Harvard's CS50x course - just to fill in any potential basic gaps in my knowledge!
 I'm learning C and C# in Unity, just for fun!
 
-💬 # Talk to me about...
+## 💬 Talk to me about...
 
 ANYTHING! I love an intelligent conversation about nearly every topic! I would love to discuss politics, computers, programming, science - anything! And well if you're looking to get a project, business, startup, whatever it may be chances are I'd love to collaborate and be a partner. For that you would need to know:
 
-📫  How to reach me
+## 📫  How to reach me
 
 I'm soon to be setting up social media accounts, will post them when they're ready!
 But for now email me, any time of the day, at: business.oscarfrederiksen@gmail.com
 
-### Stay Awesome!
+# Stay Awesome!
 
 
 <!--
