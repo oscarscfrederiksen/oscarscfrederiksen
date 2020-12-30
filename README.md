@@ -5,9 +5,9 @@ My name is Oscar Frederiksen and I'm a self-taught programmer (most interested i
 ## 🔭 What I'm doing now?
 
 I'm working on a few things and have a few potential projects on the backburner:
-
+<!--
 - The VolunteerMe App: Repo coming soon! 🔨🔨
-
+<!--
 - The (temporarily labelled) Notion-Obsidian Crossbreed: Repo and name coming soon! 🔨🔨
 
 - An AI powered rock, paper, scissors robot: Repo coming soon!
