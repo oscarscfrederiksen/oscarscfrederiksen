@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/oscarscfrederiksen/oscarscfrederiksen/master/Hand-Waving.gif" width="70px" style="clip: rect(0px, 0px, 100px, 0px)">
 
-My name is Oscar Frederiksen and I'm a self-taught programmer (most interested in app & web development - but by no means exclusively). I'm from Denmark 🇩🇰, living in London and currently working on launching multiple apps, startups and busieness ventures!
+My name is Oscar Frederiksen and I'm a self-taught programmer (most interested in app & web development - but by no means exclusively). I'm from Denmark 🇩🇰, living in London and currently working on multiple exciting projects! <!--launching multiple apps, startups and busieness ventures!-->
 
 ## 🔭 What I'm doing now?
 
