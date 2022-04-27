@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/oscarscfrederiksen/oscarscfrederiksen/master/Hand-Waving.gif" width="70px" style="clip: rect(0px, 0px, 100px, 0px)">
 
-My name is Oscar Frederiksen and I'm a self-taught programmer (most interested in app & web development - but by no means exclusively). I'm from Denmark 🇩🇰, living in London and currently working on multiple exciting projects! <!--launching multiple apps, startups and busieness ventures!-->
+My name is Oscar Frederiksen and I'm a programmer (most interested in app & web development - but by no means exclusively). I'm from Denmark 🇩🇰, living in London and currently working on multiple exciting projects! <!--launching multiple apps, startups and business ventures!-->
 
 ## 🔭 What I'm doing now?
 
@@ -12,8 +12,7 @@ I'm working on a few things and have a few potential projects on the backburner:
 
 I have plenty to work on, however I always love learning new things!
 
-I'm currently working through Harvard's CS50x course - just to fill in any potential basic gaps in my knowledge!
-I'm learning C and C# in Unity, just for fun!
+I'm currently developing my backend knowledge - Typescript and GraphQL are the way to go!
 
 ## 💬 Talk to me about...
 
