@@ -21,7 +21,7 @@ ANYTHING! I love an intelligent conversation about nearly every topic! I would l
 ## 📫  How to reach me
 
 I'm soon to be setting up social media accounts, will post them when they're ready!
-But for now email me, any time of the day, at: business.oscarfrederiksen@gmail.com
+But for now email me, any time of the day, at: me@oscarscfrederiksen.com
 
 # Stay Awesome!
 
