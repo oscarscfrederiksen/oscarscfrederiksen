@@ -2,12 +2,6 @@
 
 My name is Oscar Frederiksen and I'm a programmer (most interested in app & web development - but by no means exclusively). I'm from Denmark 🇩🇰, living in London and currently working on multiple exciting projects! <!--launching multiple apps, startups and business ventures!-->
 
-## 🔭 What I'm doing now?
-
-I'm working on a few things and have a few potential projects on the backburner:
-
-- An IDE, and a programming language: Just a personal challenge!
-
 ## 🌱  What I'm learning?
 
 I have plenty to work on, however I always love learning new things!
