@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/oscarscfrederiksen/oscarscfrederiksen/master/Hand-Waving.gif" width="70px" style="clip: rect(0px, 0px, 100px, 0px)">
 
-My name is Oscar Frederiksen and I'm a programmer (most interested in app & web development - but by no means exclusively). I'm from Denmark 🇩🇰, living in London and currently working on multiple exciting projects! <!--launching multiple apps, startups and business ventures!-->
+My name is Oscar Frederiksen and I'm a programmer (most interested in app & web development - but by no means exclusively), from Denmark 🇩🇰, living in London and currently working on multiple exciting projects! <!--launching multiple apps, startups and business ventures!-->
 
 ## 🌱  What I'm learning?
 
@@ -9,13 +9,10 @@ I have plenty to work on, however I always love learning new things!
 I'm currently developing my backend knowledge - Typescript and GraphQL are the way to go!
 
 ## 💬 Talk to me about...
-
-ANYTHING! I love an intelligent conversation about nearly every topic! I would love to discuss politics, computers, programming, science - anything! And well if you're looking to get a project, business, startup, whatever it may be chances are I'd love to collaborate and be a partner. For that you would need to know:
+If you're looking to get a project, business, startup, whatever it may be chances are I'd love to collaborate and be a partner. For that you would need to know:
 
 ## 📫  How to reach me
-
-I'm soon to be setting up social media accounts, will post them when they're ready!
-But for now email me, any time of the day, at: me@oscarscfrederiksen.com
+For now email me, any time of the day, at: me@oscarscfrederiksen.com
 
 # Stay Awesome!
 
